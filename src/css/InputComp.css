@@ -1,0 +1,32 @@
+.input-comp{
+    background: beige;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+.input-comp input{
+    width: 400px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 7px;
+    border: 1px solid gold;
+}
+.input-comp input:focus{
+    font-weight: bold;
+}
+.input-comp button{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    border-radius: 30%;
+    cursor: pointer;
+}
+.input-comp button:hover{
+    background-color: coral;
+    color: white;
+}
+hr{
+    border: 1px solid gold;
+    margin-top: 10px;
+}
